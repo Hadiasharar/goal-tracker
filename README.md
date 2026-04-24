@@ -191,3 +191,12 @@ src/
   level: number   // computed: floor(xpTotal / 500) + 1
 }
 ```
+
+### Screenshots
+
+#### Dashboard
+<img width="1895" height="1017" alt="image" src="https://github.com/user-attachments/assets/2d61fd3a-61b3-4f3a-acd7-7c381e43a470" />
+
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/9c9a4555-54fe-4380-a756-83a9354ecc26" />
+
+
